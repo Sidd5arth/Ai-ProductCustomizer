@@ -1,5 +1,7 @@
 # Ai-ProductCustomizer
 
+App is currently in development, I am trying to integrate DALL-E for Prompt based texture and logo generation on the go in real time!
+
 https://github.com/Sidd5arth/Ai-ProductCustomizer/assets/88337830/f7a690b2-d0c5-45e8-8e06-eae6345e7a3c
 
 
